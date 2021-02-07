@@ -10,6 +10,11 @@
         <English>Localization Key</English>
         <German>Übersetzungsschlüssel</German>
     </Key>
+    <Key ID="STR_STRINGTABLE_OPEN">
+        <Original>Open Stringtable Viewer</Original>
+        <English>Open Stringtable Viewer</English>
+        <German>Stringtable Viewer öffnen</German>
+    </Key>
     <Key ID="STR_STRINGTABLE_SUBTITLE_OUTPUT">
         <Original>Localized Text</Original>
         <English>Localized Text</English>
