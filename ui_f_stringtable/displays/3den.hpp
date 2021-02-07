@@ -10,7 +10,7 @@ class display3DEN {
         class Stringtable_Open {
           action = "findDisplay 313 createDisplay 'stringtable_viewer';";
           opensNewWindow = 1;
-          text = "$STR_STRINGTaBLE_OPEN";
+          text = "$STR_STRINGTABLE_OPEN";
           picture = "a3\3den\data\displays\display3den\entitymenu\findcreate_ca.paa";
         };
       };
