@@ -1,24 +1,19 @@
 class display3DEN {
-	class Controls {
-		class MenuStrip: ctrlMenuStrip {
-			class Items {
-				items[] += {
-					"stringtable_tools"
-				};
-				class Seperator;
-				class stringtable_tools {
-					text = "Stringtable Viewer";
-					items[] = {
-						"stringtable_open"
-					};
-				};
-				class stringtable_open {
-					text = "Stingtable Viewer";
-					data = "stringtable_open_data";
-					opensNewWindow = 1;
-					action = "(findDisplay 313) createDisplay 'stringtable_viewer';";
-				};
-			};
-		};
-	};
+  class Controls {
+    class MenuStrip: ctrlMenuStrip {
+      class Items {
+        class Tools {
+          items[] += {
+            "Stringtable_Open"
+            };
+        };
+        class Stringtable_Open {
+          action = "findDisplay 313 createDisplay 'stringtable_viewer';";
+          opensNewWindow = 1;
+          text = "$STR_STRINGTaBLE_OPEN";
+          picture = "a3\3den\data\displays\display3den\entitymenu\findcreate_ca.paa";
+        };
+      };
+    };
+  };
 };
