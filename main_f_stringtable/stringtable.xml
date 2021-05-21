@@ -3,141 +3,169 @@
     <Key ID="STR_STRINGTABLE_TITLE">
         <Original>Asaayu's Stringtable Viewer</Original>
         <English>Asaayu's Stringtable Viewer</English>
+        <Russian>Asaayu's Stringtable Viewer</Russian>
         <German>Asaayu's Stringtable Viewer</German>
     </Key>
     <Key ID="STR_STRINGTABLE_SUBTITLE_KEY">
         <Original>Localization Key</Original>
         <English>Localization Key</English>
+        <Russian>Ключ локализации</Russian>
         <German>Übersetzungsschlüssel</German>
     </Key>
     <Key ID="STR_STRINGTABLE_OPEN">
         <Original>Open Stringtable Viewer</Original>
         <English>Open Stringtable Viewer</English>
+        <Russian>Открыть средство просмотра Stringtable</Russian>
         <German>Stringtable Viewer öffnen</German>
     </Key>
     <Key ID="STR_STRINGTABLE_SUBTITLE_OUTPUT">
         <Original>Localized Text</Original>
         <English>Localized Text</English>
+        <Russian>Локализированный текст</Russian>
         <German>Übersetzung</German>
     </Key>
     <Key ID="STR_STRINGTABLE_SUBTITLE_NUMBER">
         <Original>#</Original>
         <English>#</English>
+        <Russian>#</Russian>
         <German>#</German>
     </Key>
     <Key ID="STR_STRINGTABLE_BUTTON_SEARCH">
         <Original>Search (Enter)</Original>
         <English>Search (Enter)</English>
+        <Russian>Поиск (Ввод)</Russian>
         <German>Suchen (Eingabe)</German>
     </Key>
     <Key ID="STR_STRINGTABLE_EDIT_SEARCH">
         <Original>Type to search...</Original>
         <English>Type to search...</English>
+        <Russian>Введите для поиска...</Russian>
         <German>Zur Suche Text hier eingeben...</German>
     </Key>
     <Key ID="STR_STRINGTABLE_BUTTON_COPY">
         <Original>Copy Selected Key to Clipboard (Ctrl - C)</Original>
         <English>Copy Selected Key to Clipboard (Ctrl - C)</English>
+        <Russian>Копировать выбранный ключ в буфер обмена (Ctrl + C)</Russian>
         <German>Ausgewählen Schlüssel in die Zwischenablage kopieren (STRG - C)</German>
     </Key>
     <Key ID="STR_STRINGTABLE_BUTTON_EXPORT">
         <Original>Export Selected Key Localize Code to Clipboard (Ctrl - X)</Original>
         <English>Export Selected Key Localize Code to Clipboard (Ctrl - X)</English>
+        <Russian>Экспорт выбранного ключа локализации кода в буфер обмена (Ctrl + X)</Russian>
         <German>Ausgewählten Schlüssel als Übersetzungscode in die Zwischenablage kopieren (STRG - X)</German>
     </Key>
     <Key ID="STR_STRINGTABLE_BUTTON_CUSTOM_PATHS">
         <Original>Add and remove your own stringtable.xml file paths for viewing</Original>
         <English>Add and remove your own stringtable.xml file paths for viewing</English>
+        <Russian>Добавьте или удалите пути для ваших собственных файлов stringtable.xml</Russian>
         <German>Pfade für eigene stringtable.xml Dateien hinzufügen oder entfernen</German>
     </Key>
     <Key ID="STR_STRINGTABLE_COMBO_ORIGIN">
         <Original>Stringtable Origin</Original>
         <English>Stringtable Origin</English>
+        <Russian>Источник Stringtable</Russian>
         <German>Stringtable-Ursprung</German>
     </Key>
     <Key ID="STR_STRINGTABLE_COMBO_LANGUAGE">
         <Original>Language</Original>
         <English>Language</English>
+        <Russian>Язык</Russian>
         <German>Sprache</German>
     </Key>
     <Key ID="STR_STRINGTABLE_BIKI_TOOLTIP">
         <Original>View Stringtable.xml BIKI Page</Original>
         <English>View Stringtable.xml BIKI Page</English>
+        <Russian>Просмотр BIKI о Stringtable.xml</Russian>
         <German>Stringtable.xml BIKI Internetseite anzeigen</German>
     </Key>
     <Key ID="STR_STRINGTABLE_GITHUB_TOOLTIP">
         <Original>Contribute to the project on GitHub</Original>
         <English>Contribute to the project on GitHub</English>
+        <Russian>Внесите свой вклад на GitHub</Russian>
         <German>Über GitHub am Projekt mitwirken</German>
     </Key>
     <Key ID="STR_STRINGTABLE_INFO_DIAG_LOG">
         <Original>!!! Stringtable Viewer - It took %3 seconds to load %4 %1 keys in %2 language !!!</Original>
         <English>!!! Stringtable Viewer - It took %3 seconds to load %4 %1 keys in %2 language !!!</English>
+        <Russian>!!! Средство просмотра Stringtable - Прошло %3 секунд(ы) на загрузку %4 %1 ключей на %2 языках !!!</Russian>
         <German>!!! Stringtable Viewer - Es hat %3 Sekunden gedauert, um %4 %1 Schlüssel in %2 Sprachen zu laden !!!</German>
     </Key>
     <Key ID="STR_STRINGTABLE_PRELOAD_DIAG_LOG">
         <Original>!!! Stringtable Viewer - It took %1 seconds to preload stringtable list !!!</Original>
         <English>!!! Stringtable Viewer - It took %1 seconds to preload stringtable list !!!</English>
+        <Russian>!!! Средство просмотра Stringtable - Прошло %1 секунд(ы) предварительной загрузки Stringtable списка !!!</Russian>
         <German>!!! Stringtable Viewer - Das Vorladen der Stringtableliste hat %1 Sekunden gedauert. !!!</German>
     </Key>
     <Key ID="STR_STRINGTABLE_INFO_LOADING">
         <Original>Loading</Original>
         <English>Loading</English>
+        <Russian>Загрузка</Russian>
         <German>Laden</German>
     </Key>
     <Key ID="STR_STRINGTABLE_INFO_PRELOADING">
         <Original>Preloading Stringtables - Please Wait</Original>
         <English>Preloading Stringtables - Please Wait</English>
+        <Russian>Предварительная загрузка Stringtable - Пожалуйста подождите</Russian>
         <German>Stringtables werden geladen - Bitte warten</German>
     </Key>
     <Key ID="STR_STRINGTABLE_TOOLTIP_EDIT_BOX">
         <Original>String to search for in both keys and localized text. (Case Insensitive)</Original>
         <English>String to search for in both keys and localized text. (Case Insensitive)</English>
+        <Russian>Строка поиска как в ключах, так и в локализированном тексте. (Без учёта регистра)</Russian>
         <German>Zeichenkette nachder Schlüssel  und die Übersetzungen durchsucht werden. (Groß- und Kleinschreibung wird nicht berücksichtigt)</German>
     </Key>
     <Key ID="STR_STRINGTABLE_TOOLTIP_KEY">
         <Original>Key used with the 'localize' command to return localized text.</Original>
         <English>Key used with the 'localize' command to return localized text.</English>
+        <Russian>Ключ, используемый с командой 'localize' для получения локализованного текста.</Russian>
         <German>Schlüssel der mit dem 'localize' Befehl verwendet wird.</German>
     </Key>
     <Key ID="STR_STRINGTABLE_TOOLTIP_OUTPUT">
         <Original>Text returned when the key is localized.</Original>
         <English>Text returned when the key is localized.</English>
+        <Russian>Получаемый текст, когда ключ локализован</Russian>
         <German>Text der zurückgegeben wird, wenn der Schlüssel übersetzt wurde.</German>
     </Key>
     <Key ID="STR_STRINGTABLE_CUSTOM_XML_TITLE">
-         <Original>Custom stringtable.xml file paths (separated by ',')</Original>
-         <English>Custom stringtable.xml file paths (separated by ',')</English>
-         <German>Benutzerdefinierte stringtable.xml Pfade (Durch ',' getrennt)</German>
+        <Original>Custom stringtable.xml file paths (separated by ',')</Original>
+        <English>Custom stringtable.xml file paths (separated by ',')</English>
+        <Russian>Пользовательские пути к файлу stringtable.xml (разделенные знаком ',')</Russian>
+        <German>Benutzerdefinierte stringtable.xml Pfade (Durch ',' getrennt)</German>
     </Key>
     <Key ID="STR_STRINGTABLE_CUSTOM_ERROR_TITLE">
-         <Original>Unable to modify custom stringtable.xml paths</Original>
-         <English>Unable to modify custom stringtable.xml paths</English>
-         <German>Ändern der benutzerdefinierten stringtable.xml Pfade nicht möglich</German>
+        <Original>Unable to modify custom stringtable.xml paths</Original>
+        <English>Unable to modify custom stringtable.xml paths</English>
+        <Russian>Невозможно изменить настраиваемые пути stringtable.xml</Russian>
+        <German>Ändern der benutzerdefinierten stringtable.xml Pfade nicht möglich</German>
      </Key>
      <Key ID="STR_STRINGTABLE_CUSTOM_ERROR_DESCRIPTION">
-         <Original>You are missing the following dependency: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</Original>
-         <English>You are missing the following dependency: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</English>
-         <German>Folgende Abhängigkeiten fehlen: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</German>
+        <Original>You are missing the following dependency: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</Original>
+        <English>You are missing the following dependency: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</English>
+        <Russian>Вам не хватает следующей зависимости: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</Russian>
+        <German>Folgende Abhängigkeiten fehlen: &lt;a href='%1' colorLink='%2'&gt;User Input Menus&lt;/a&gt;</German>
      </Key>
      <Key ID="STR_STRINGTABLE_3DEN_NOTIFICATION_PRELOADING_START">
-         <Original>3den Stringtable Viewer: Preloading Strings</Original>
-         <English>3den Stringtable Viewer: Preloading Strings</English>
-         <German>3den Stringtable Viewer: Übersetzungen werden vorgeladen</German>
+        <Original>3den Stringtable Viewer: Preloading Strings</Original>
+        <English>3den Stringtable Viewer: Preloading Strings</English>
+        <Russian>3den Stringtable Viewer: Предварительная загрузка строк</Russian>
+        <German>3den Stringtable Viewer: Übersetzungen werden vorgeladen</German>
      </Key>
      <Key ID="STR_STRINGTABLE_3DEN_NOTIFICATION_PRELOADING_END">
-         <Original>3den Stringtable Viewer: Preloading Complete</Original>
-         <English>3den Stringtable Viewer: Preloading Complete</English>
-         <German>3den Stringtable Viewer: Vorladen beendet</German>
+        <Original>3den Stringtable Viewer: Preloading Complete</Original>
+        <English>3den Stringtable Viewer: Preloading Complete</English>
+        <Russian>3den Stringtable Viewer: Предварительная загрузка завершена</Russian>
+        <German>3den Stringtable Viewer: Vorladen beendet</German>
      </Key>
     <Key ID="STR_STRINGTABLE_3DEN_PREFERENCES_ENABLEPRELOADING_DISPLAYNAME">
-         <Original>Enable Stringtable Preloading</Original>
-         <English>Enable Stringtable Preloading</English>
-         <German>Vorladen von Stringtable-Dateien anschalten</German><!---Might not be the ideal translation--->
+        <Original>Enable Stringtable Preloading</Original>
+        <English>Enable Stringtable Preloading</English>
+        <Russian>Включить предварительную загрузку Stringtable</Russian>
+        <German>Vorladen von Stringtable-Dateien anschalten</German><!---Might not be the ideal translation--->
      </Key>
     <Key ID="STR_STRINGTABLE_3DEN_PREFERENCES_ENABLEPRELOADING_TOOLTIP">
-         <Original>If enabled, stringtable files will be preloaded everytime Eden Editor is opened. Disable this to improve performance.</Original>
-         <English>If enabled, stringtable files will be preloaded everytime Eden Editor is opened. Disable this to improve performance.</English>
-         <German>Wenn angeschaltet werden alle Stringtable-Dateien vorgeladen. Schalte dies aus um die Leistung zu verbessern.</German>
+        <Original>If enabled, stringtable files will be preloaded everytime Eden Editor is opened. Disable this to improve performance.</Original>
+        <English>If enabled, stringtable files will be preloaded everytime Eden Editor is opened. Disable this to improve performance.</English>
+        <Russian>Если этот параметр включен, файлы строковых таблиц будут предварительно загружаться при каждом открытии Eden Editor. Отключите функцию, чтобы повысить производительность</Russian>
+        <German>Wenn angeschaltet werden alle Stringtable-Dateien vorgeladen. Schalte dies aus um die Leistung zu verbessern.</German>
      </Key>
 </Project>
